@@ -1,0 +1,12 @@
+* {
+  font-family: "Roboto", serif;
+  font-weight: 300;
+}
+.logo-size{
+    width: 130px;
+    height: auto;
+}
+.p::placeholder{
+  color: white;
+  opacity: 0.7;
+}
